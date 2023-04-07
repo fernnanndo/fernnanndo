@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Java, C#**
 
-- 📄 Know more about my experiences [https://www.linkedin.com/in/fernandobarbona/](https://www.linkedin.com/in/fernandobarbona/)
+- 📄 Know more about my experience [https://www.linkedin.com/in/fernandobarbona/](https://www.linkedin.com/in/fernandobarbona/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
