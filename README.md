@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fer Barbona</h1>
 <h3 align="center">I'm an IT Specialist</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Java, C#**
+- 🌱 I’m currently learning **Java, C#, and Docker**
 
 - 📄 Know more about my experience [https://www.linkedin.com/in/fernandobarbona/](https://www.linkedin.com/in/fernandobarbona/)
 
